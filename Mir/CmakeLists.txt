@@ -1,0 +1,12 @@
+add_executable(dropdown
+    main.cpp
+    ImguiManager.cpp
+    dropdown/dropdown.cpp
+)
+
+target_link_libraries(dropdown PRIVATE
+    imgui
+)
+target_include_directories(dropdown PRIVATE
+    dropdown/
+)
