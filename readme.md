@@ -45,6 +45,10 @@ Dependencies:
 ### Building with CMake
 
 1. Clone the repository:
+   ```bash
+   git clone https://github.com/Mairooriam/Dropdown.git
+   cd Dropdown
+   ```
 
 2. Create a build directory:
    ```bash
