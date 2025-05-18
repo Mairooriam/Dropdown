@@ -45,10 +45,6 @@ Dependencies:
 ### Building with CMake
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Mairooriam/FileTree.git
-   cd FileTree
-   ```
 
 2. Create a build directory:
    ```bash
